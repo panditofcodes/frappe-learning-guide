@@ -1,10 +1,8 @@
----
-
 ## ✅ **Core / Must-Know (Beginner to Early Intermediate)**
 
 These are the **essential skills** needed to build apps, understand the framework, and become productive in a Frappe environment.
 
-### Getting Started
+### 🚀 Getting Started
 
 * Frappe Framework Overview
 * Bench, Site, and App structure
